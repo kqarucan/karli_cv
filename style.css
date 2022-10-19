@@ -1,0 +1,70 @@
+h1 {
+  text-align: right;
+  font-family: Lucida Console;
+  font-size: 80px;
+  color: #835C3B;
+}
+body {
+  background-color: #FAF0E6;
+  background-image: url('coffee-bean-transparent-background-8.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+hr {
+  background-color: #F9966B;
+}
+h2 {
+  text-decoration: underline;
+  text-decoration-color: #6C2DC7;
+  font-family: monospace;
+  font-size: 30px;
+  color: #835C3B;
+}
+h3 {
+  font-family: monospace;
+  font-size: 20px;
+  color: #835C3B;
+}
+h4 {
+  font-family: serif;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  color: #835C3B;
+}
+title {
+  font-size: 15px;
+  font-family: monospace;
+}
+p {
+ text-align: center;
+ font-family: monospace;
+ font-size: 17px;
+ color: #835C3B;
+}
+a {
+  display: block;
+  width: 100px;
+  margin: auto;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 17px;
+}
+a:active {
+  color: #6F4E37;
+}
+a:hover {
+  color: #008080;
+}
+a:visited {
+  color: #990000;
+}
+li {
+  font-family: monospace;
+  font-size: 17px;
+  color: #835C3B;
+}
+ul {
+  list-style-type: square;
+}
